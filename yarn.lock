@@ -248,9 +248,9 @@ __metadata:
   linkType: soft
 
 "@rushstack/eslint-patch@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "@rushstack/eslint-patch@npm:1.1.0"
-  checksum: 4602c23454c8bb03502da12398cb5c4c0bfb3b1772535b418ec94ab8c47824f70e6ff32206a35fe7086042d9516959edea439e2371147b1de7eee50ef03ace65
+  version: 1.11.0
+  resolution: "@rushstack/eslint-patch@npm:1.11.0"
+  checksum: d1d7e4d36c693b93c06b25022df094ef629b53805db2c7a7ecbb099c34ea525eb96c19f6e5ea5ad1f8b69aba6792cfd8cdd410655b6aa9da15c69c4593019bfc
   languageName: node
   linkType: hard
 
