@@ -504,11 +504,11 @@ __metadata:
   linkType: hard
 
 "@types/lodash.mapvalues@npm:^4.6.6":
-  version: 4.6.6
-  resolution: "@types/lodash.mapvalues@npm:4.6.6"
+  version: 4.6.9
+  resolution: "@types/lodash.mapvalues@npm:4.6.9"
   dependencies:
     "@types/lodash": "*"
-  checksum: bd8fe9e99362d142f96b1868633f26d90d6d0602545087cf9cbd8bd011e31aa78291328116d653698f6d0ce3e86e2922583f181cf11507fe6214f00f3b6a9a07
+  checksum: 297cab2657476ef8e94679f2dccad0a8944f08e255aeaf80304dc99785f15907e374937a236fbf2e5a052c72181a8a3c7ae4624ebf9c7de1b26957753788ab19
   languageName: node
   linkType: hard
 
